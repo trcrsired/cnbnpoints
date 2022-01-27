@@ -1,7 +1,6 @@
 ## Interface: 90105
 ## Author: cqwrteur
 ## Title: cnbnpoints
-## Version: 2021-03-20T20:55:35Z
 ## OptionalDeps: Ace3
 
 @no-lib-strip@
