@@ -1,0 +1,15 @@
+## Interface: 90105
+## Author: cqwrteur
+## Title: cnbnpoints options
+## Dependencies: cnbnpoints
+## LoadOnDemand: 1
+## SavedVariables: cnbnpoints_db
+
+@no-lib-strip@
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+@end-no-lib-strip@
+
+cbpo.lua
